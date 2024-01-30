@@ -1,2 +1,2 @@
 # BookNotes
-A project to keep my notes about the books i read
+A project to keep my notes on the books i read
